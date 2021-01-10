@@ -2,7 +2,7 @@
 
 
 ## Laravel Shop
-<p align="center">Is simple project on backend PHP(Laravel) Restfull API, this poroject have performance to do:</p>
+
 Is simple project on backend PHP(Laravel) Restfull API, this poroject have performance to do:
 
 - Sign in and Sign Up user base on auth token
